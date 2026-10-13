@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Compiled
+*.class
+*.pyc
+__pycache__/
+target/
+build/
+*.jar
